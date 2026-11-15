@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "SSC Study Hub \u2014 Kaviraj Singh Saini",
+  "short_name": "SSC Study Hub",
+  "description": "Your personal exam preparation platform.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070b12",
+  "theme_color": "#070b12",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
